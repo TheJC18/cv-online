@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Menu, X, Home, User, Briefcase, Code, FolderOpen, GraduationCap, Mail } from 'lucide-react'
+import { Menu, X, Home, User, Briefcase, Code, GraduationCap, Mail } from 'lucide-react'
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false)

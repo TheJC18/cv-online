@@ -1,4 +1,4 @@
-import { ChevronDown, Download, Github, Linkedin, Mail, MapPin, Heart, Code, Beer, ArrowUp, Globe, Atom } from 'lucide-react'
+import { ChevronDown, Github, Linkedin, Mail, Heart, Code, Beer, Globe, Atom } from 'lucide-react'
 import { useState, useEffect } from 'react'
 
 const Main = () => {
